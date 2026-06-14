@@ -26,4 +26,4 @@ const InputHandler = () => {
   Words.textContent = NumberOfWords;
 };
 
-textareaEl.addEventListener("input",InputHandler);
+textareaEl.addEventListener("input",InputHandler); 
